@@ -1,0 +1,43 @@
+html {
+    font-family: sans-serif;
+    background-color: aliceblue;
+}
+
+#content {
+    vertical-align: middle;
+    border: 10px solid darkslateblue;
+    border-radius: 50px;
+    width: 90%;
+    display: inline-block;
+    vertical-align: middle;
+    background-color: #ddd;
+    text-align: center;
+    font-size: 18px;
+}
+
+body {
+    text-align: center;
+    vertical-align: middle;
+}
+
+button {
+    width: 250px;
+    height: 50px;
+    color: white;
+    border-radius: 25px;
+    border: none;
+    font-size: 18px;
+    background-image: linear-gradient(to bottom right, navy, indigo);
+}
+
+.sol {
+    display: none;
+}
+
+.showing {
+    background-image: linear-gradient(to bottom right, indigo, navy);
+}
+
+.ch {
+    padding-left: 15px;
+}
